@@ -1,4 +1,5 @@
 #include <iostream>
 int main() {
 std::cout << "Hello, Git!";
-return
+return 0;
+}
